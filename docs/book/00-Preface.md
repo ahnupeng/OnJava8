@@ -8,7 +8,7 @@
 
 随着 Java 8 的出现，这门语言在许多地方发生了翻天覆地的变化。在新的版本中，代码的运用和实现上与以往不尽相同。这也促使了我时隔多年后再次创作了这本新书。《On Java 8》旨在面向已具有编程基础的开发者们。对于初学者，可以先在 [Code.org](http://Code.org) 或者 [Khan Academy](https://www.khanacademy.org/computing/computer-programming) 等网站上补充必要的前置知识。同时，[OnJava8.com](http://www.OnJava8.com) 上也有免费的 Thinking in C（《C编程思想》）专题知识。
 
-与几年前我们依赖印刷媒体相比，YouTube，博客和 StackOverflow 等网站的出现让寻找答案变得简单。请结合这些学习途径和努力坚持下去。本书可作为编程入门书籍，同时也适用于想要扩展知识的在职程序员。每次在世界各地的演讲中，我都非常感谢 《*Thinking in Java*》 这本书给我带来的所有荣誉。它对于我重塑 [Reinventing Business](http://www.reinventing-business.com) 项目和促进交流是非常宝贵的。最后，写这本书的原因之一 希望这本书可以为我的这个项目众筹。似乎下一步要创建一个所谓的蓝绿色组织（Teal Organization）才合乎逻辑的。
+与几年前我们依赖印刷媒体相比，YouTube，博客和 StackOverflow 等网站的出现让寻找答案变得简单。请结合这些学习途径并努力坚持下去。本书可作为编程入门书籍，同时也适用于想要扩展知识的在职程序员。每次在世界各地的演讲中，我都非常感谢 《*Thinking in Java*》 这本书给我带来的所有荣誉。它对于我重塑 [Reinventing Business](http://www.reinventing-business.com) 项目和促进交流是非常宝贵的。最后，写这本书的原因之一 希望这本书可以为我的这个项目众筹。似乎下一步要创建一个所谓的蓝绿色组织（Teal Organization）才合乎逻辑的。
 
 
 ## 教学目标
